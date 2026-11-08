@@ -11,9 +11,9 @@ export const site = {
   tagline: "Refrigeration, aircon and heat pumps",
 
   /** As a customer reads it. */
-  phone: "061 113 8983",
+  phone: "067 044 6551",
   /** The same number for tel: and WhatsApp links: country code, no spaces. */
-  phoneDigits: "27611138983",
+  phoneDigits: "27670446551",
   /** TODO: email, if he ever wants one shown. */
   email: "",
 
